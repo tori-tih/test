@@ -24,7 +24,7 @@ namespace LR4_VAR9_TIKHONOVA_MIVS
         private ListEvents rain = new ListEvents();
         private ListEvents cold = new ListEvents();
         private ListLogicalConditions listL = new ListLogicalConditions();
-        private string info = "День: ";
+        private string info = "Динь: ";
         private int day;  int weth;
         private Random rnd = new Random();
         private ResourceManager rm = Resources.ResourceManager;
