@@ -1,0 +1,10 @@
+D:\1уник\5 семак my\моделирование информационно-вычислительных систем\lr4\LR4_VAR9_TIKHONOVA_MIVS\bin\Debug\LR4_VAR9_TIKHONOVA_MIVS.exe.config
+D:\1уник\5 семак my\моделирование информационно-вычислительных систем\lr4\LR4_VAR9_TIKHONOVA_MIVS\bin\Debug\LR4_VAR9_TIKHONOVA_MIVS.exe
+D:\1уник\5 семак my\моделирование информационно-вычислительных систем\lr4\LR4_VAR9_TIKHONOVA_MIVS\bin\Debug\LR4_VAR9_TIKHONOVA_MIVS.pdb
+D:\1уник\5 семак my\моделирование информационно-вычислительных систем\lr4\LR4_VAR9_TIKHONOVA_MIVS\obj\Debug\LR3_VAR9_TIKHONOVA_MIVS.csproj.AssemblyReference.cache
+D:\1уник\5 семак my\моделирование информационно-вычислительных систем\lr4\LR4_VAR9_TIKHONOVA_MIVS\obj\Debug\LR4_VAR9_TIKHONOVA_MIVS.Form1.resources
+D:\1уник\5 семак my\моделирование информационно-вычислительных систем\lr4\LR4_VAR9_TIKHONOVA_MIVS\obj\Debug\LR4_VAR9_TIKHONOVA_MIVS.Properties.Resources.resources
+D:\1уник\5 семак my\моделирование информационно-вычислительных систем\lr4\LR4_VAR9_TIKHONOVA_MIVS\obj\Debug\LR3_VAR9_TIKHONOVA_MIVS.csproj.GenerateResource.cache
+D:\1уник\5 семак my\моделирование информационно-вычислительных систем\lr4\LR4_VAR9_TIKHONOVA_MIVS\obj\Debug\LR3_VAR9_TIKHONOVA_MIVS.csproj.CoreCompileInputs.cache
+D:\1уник\5 семак my\моделирование информационно-вычислительных систем\lr4\LR4_VAR9_TIKHONOVA_MIVS\obj\Debug\LR4_VAR9_TIKHONOVA_MIVS.exe
+D:\1уник\5 семак my\моделирование информационно-вычислительных систем\lr4\LR4_VAR9_TIKHONOVA_MIVS\obj\Debug\LR4_VAR9_TIKHONOVA_MIVS.pdb
